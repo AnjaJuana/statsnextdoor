@@ -9,7 +9,22 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: markdown
+    content:
+      title: 'Statistician Next Door' 
+      subtitle: 'Statistical Consulting'
+      text: |-
+        <p>At Statistician Next Door, I offer professional statistical consulting services to a variety of clients. My goal is to collaborate with each client to identify their specific needs and provide tailored services in an accessible way. Whether you are a company, a researcher, or a student, I can help you with your data analysis needs. My services include:</p>
+        <ul>
+            <li><b>Companies:</b> I can help you understand your current performance, predict your future outcomes, and support your decision making by using advanced statistical techniques and data visualization tools.</li>
+            <li><b>Researchers:</b> I can help you define a clear and feasible research question, choose the appropriate statistical methods, and perform the data analysis. I can also help you interpret the results, report the findings, and communicate the implications of your research.</li>
+            <li><b>Students:</b> I can tutor you in the programming language R and explain concepts and applications of statistics through online tutoring. I will not provide solutions for graded assignments.</li>
+        </ul>
+        <p>I am using the R programming language for all statistical analysis and can advise you on your own analysis in R as well.</p>
+        <p>Contact me today and let me help you with your data analysis needs.</p>
+
+  - block: resume-biography-3 
+    id: aboutme
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -18,7 +33,7 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-    design:
+#    design:
       css_class: dark
       background:
         color: black
@@ -31,95 +46,24 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: prices
     content:
-      title: '📚 My Research'
+      title: 'Prices'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        <p>Rates depend on the type of work and the size of the project. After receiving the details of your project, I will send an offer and a timeline within a couple of business days.</p>
+  - block: markdown
+    id: contact
+    content:
+      title: 'Contact'
+      subtitle: ''
+      text: |-
+        <p>To request my service, please email me a summary of your project or problem at test@email.com. The more details you provide, the more precise my pricing estimate will be. </p>
+        <p>Do not send any data by email!</p>
+        <p>Please mention if there is a specific deadline you are working towards. </p>
+        <p>Within a few business days, you will receive a tailored offer with a price and timeline indication.</p>
+        <p> Once you give the green light, we can move forward with our collaboration.</p>
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
+#    design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-        
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
 ---
