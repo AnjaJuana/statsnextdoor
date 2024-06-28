@@ -14,6 +14,7 @@ sections:
       title: 'Statistician Next Door' 
       subtitle: 'Statistical Consulting'
       text: |-
+        <p><b>I am not accepting clients at this moment. Furthermore, the email address listed on this site is currently inactive and not monitored.</b></p>
         <p>At Statistician Next Door, I offer professional statistical consulting services to a variety of clients. My goal is to collaborate with each client to identify their specific needs and provide tailored services in an accessible way. Whether you are a company, a researcher, or a student, I can help you with your data analysis needs. My services include:</p>
         <ul>
             <li><b>Companies:</b> I can help you understand your current performance, predict your future outcomes, and support your decision making by using advanced statistical techniques and data visualization tools.</li>
@@ -30,9 +31,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+#      button:
+#        text: Download CV
+#        url: uploads/resume.pdf
 #    design:
       css_class: dark
       background:
@@ -58,6 +59,7 @@ sections:
       title: 'Contact'
       subtitle: ''
       text: |-
+        <p><b>I am not accepting clients at this moment. Furthermore, the email address listed on this site is currently inactive and not monitored.</b></p>
         <p>To request my service, please email me a summary of your project or problem at test@email.com. The more details you provide, the more precise my pricing estimate will be. </p>
         <p>Do not send any data by email!</p>
         <p>Please mention if there is a specific deadline you are working towards. </p>
