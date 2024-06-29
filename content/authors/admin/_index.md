@@ -66,9 +66,9 @@ education:
 
 ## About Me
 
-I am your Statistician Next Door, a half-Peruvian German native who studied mathematics and statistics in Germany and the Netherlands, and is currently residing in beautiful Austria with her family of three. 
+I am your Statistician Next Door, a Peruvian-German native who studied mathematics and statistics in Germany and the Netherlands, and is currently residing in beautiful Austria with her family of three. 
 
-During my Master studies, I gained first experiences in statistical consulting through coursework as well as an internship at the Leiden University Medical Center (LUMC). The results of this internship assisted in obtaining funding for my PhD research, during which I continued to provide consulting services to researchers from the LUMC. After obtaining my doctorate, I pursued a post doc at the Erasmus University Medical Center where I provided consulting services to medical researchers as well.
+During my master's studies, I gained initial experience in statistical consulting through coursework and an internship at the Leiden University Medical Center (LUMC). The results of this internship helped secure funding for my PhD research at the Mathematical Institute of Leiden University, during which I closely collaborated with researchers from the LUMC. Apart from conducting my own research, I also provided consulting services to researchers at the LUMC. My dissertation was awarded the C.J. Kok Jury Award for best thesis by the Faculty of Science at Leiden University. After obtaining my doctorate, I pursued a postdoc at the Erasmus University Medical Center, where I provided consulting services to medical researchers as well.
 
 My enjoyment of working on consulting projects inspired me to start my own statistical consulting business. This venture combines my desire for helping people, my passion for statistics, and the autonomy that comes with self-employment.
 

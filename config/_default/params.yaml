@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: light # system
   color: emerald
 
 # SEO
@@ -31,11 +31,13 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    align: "left"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false # for light or dark mode
     logo:
-      text: "Statistician Next Door"
+      text: ""
+      filename: "logo.png"
 
 # Site footer
 footer:
