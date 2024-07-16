@@ -1,0 +1,5 @@
+.inline-image {
+    height: 1em; /* Matches the height of the surrounding text */
+    vertical-align: middle; /* Aligns the image with the middle of the text */
+    display: inline; 
+}

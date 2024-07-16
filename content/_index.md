@@ -52,7 +52,8 @@ sections:
       title: 'Prices'
       subtitle: ''
       text: |-
-        <p>Rates depend on the type of work and the size of the project. After receiving the details of your project, I will send an offer and a timeline within a couple of business days.</p>
+        <p>Rates depend on the type of work and the size of the project. After receiving the details of your project, I will send an offer and a timeline within a couple of business days. 
+        </p>
   - block: markdown
     id: contact
     content:
@@ -60,7 +61,11 @@ sections:
       subtitle: ''
       text: |-
         <p><b>I am not accepting clients at this moment. Furthermore, the email address listed on this site is currently inactive and not monitored.</b></p>
-        <p>To request my service, please email me a summary of your project or problem at test@email.com. The more details you provide, the more precise my pricing estimate will be. </p>
+        <p>To request my service, please email me a summary of your project or problem at 
+            <a href="mailto:yourname@yourdomain.com"> 
+                <img src="/images/email_adress.png " alt="Email us at yourname@yourdomain.com" class="inline-image"> 
+            </a>. The more details you provide, the more precise my pricing estimate will be. 
+        </p>
         <p>Do not send any data by email!</p>
         <p>Please mention if there is a specific deadline you are working towards. </p>
         <p>Within a few business days, you will receive a tailored offer with a price and timeline indication.</p>
