@@ -3,3 +3,8 @@
     vertical-align: middle; /* Aligns the image with the middle of the text */
     display: inline; 
 }
+
+.md_style {
+    margin-left: 1em;
+    margin-right: 1em;
+}
