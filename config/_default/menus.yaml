@@ -5,15 +5,12 @@
 
 main:
   - name: About me
-    url: '#aboutme'
+    url: 'https://statisticiannextdoor.com/#aboutme'
     weight: 10
   - name: Prices
-    url: '#prices'
+    url: 'https://statisticiannextdoor.com/#prices'
     weight: 11
   - name: Contact
-    url: '#contact'
+    url: 'https://statisticiannextdoor.com/#contact'
     weight: 12
-#  - name: Experience
-#    url: experience/
-#    weight: 20
 

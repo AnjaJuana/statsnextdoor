@@ -15,7 +15,6 @@ sections:
       subtitle: 'Statistical Consulting'
       text: |-
         <div class="md_style">
-            <p><b>I am not accepting clients at this moment. Furthermore, the email address listed on this site is currently inactive and not monitored.</b></p>
             <p>At Statistician Next Door, I offer professional statistical consulting services to a variety of clients. My goal is to collaborate with each client to identify their specific needs and provide tailored services in an accessible way. Whether you are a company, a researcher, or a student, I can help you with your data analysis needs. My services include:</p>
             <ul>
                 <li><b>Companies:</b> I can help you understand your current performance, predict your future outcomes, and support your decision making by using advanced statistical techniques and data visualization tools.</li>
@@ -73,14 +72,18 @@ sections:
       subtitle: ''
       text: |-
         <div class="md_style">
-            <p><b>I am not accepting clients at this moment. Furthermore, the email address listed on this site is currently inactive and not monitored.</b></p>
             <p>To request my service, please email me a summary of your project or problem at 
-                <a href="mailto:yourname@yourdomain.com"> 
-                    <img src="/images/email_adress.png " alt="Email us at yourname@yourdomain.com" class="inline-image"> 
-                </a>. The more details you provide, the more precise my pricing estimate will be. 
+                <img src="/images/email_grey.png " class="inline-image" style="width: 38%; height: auto; display: inline-block; vertical-align: middle; margin: 0; padding: 0;">
+            . In particular, please include the following information: 
             </p>
-            <p>Do not send any data by email!</p>
-            <p>Please mention if there is a specific deadline you are working towards. </p>
+            <ul>
+                <li>Brief summary of project</li>
+                <li>Project goal: what do you expect as outcome of this project?</li>
+                <li>Type of analysis if already known</li>
+                <li>Timeline: is there a specific deadline you are working towards?</li>
+                <li>Budget for the project</li>
+            </ul>
+            <p><b>Do not send any data by email!</b></p>
             <p>Within a few business days, you will receive a tailored offer with a price and timeline indication.</p>
             <p> Once you give the green light, we can move forward with our collaboration.</p>
         </div>
