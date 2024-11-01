@@ -5,12 +5,12 @@
 
 main:
   - name: About me
-    url: 'https://statisticiannextdoor.com/#aboutme'
+    url: '#aboutme'
     weight: 10
   - name: Prices
-    url: 'https://statisticiannextdoor.com/#prices'
+    url: '#prices'
     weight: 11
   - name: Contact
-    url: 'https://statisticiannextdoor.com/#contact'
+    url: '#contact'
     weight: 12
 

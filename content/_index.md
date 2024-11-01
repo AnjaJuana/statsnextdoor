@@ -90,7 +90,46 @@ sections:
     design:
       background:
         color: '#F7F7F7'
+  - block: markdown
+    content:
+      title: ''
+      subtitle: 'Statistical Consulting'
+      text: |-
+        <div>
+          <!-- Centering the toggle button -->
+          <div style="text-align: center;">  <!-- Centering div -->
+            <button id="toggle-button" onclick="toggleImpressum()" style="background:none;border:none;color:black;text-decoration:none;cursor:pointer;">
+              Show Impressum
+            </button>
+          </div>         
+          <!-- Hidden Impressum content -->
+          <div id="impressum-content" style="display:none; font-size: 0.8em;">
+            <ul style="list-style-type: none; padding: 0; margin: 0;">
+                <li><b>Name:</b> Dr. Anja Juana Rüten-Budde</li>
+                <li><b>Address:</b> Roseggerstraße 23, 8700 Leoben, Austria</li>
+                <li><b>Email:</b> <img src="/images/email_white.png" class="inline-image" style="width: 38%; height: auto; display: inline-block; vertical-align: middle; margin: 0; padding: 0;"></li>
+                <li><b>UID Number:</b> ATU12345678 </li>
+            </ul>
+            <p>Einzelunternehmer gemäß § 6 Abs. 1 Z 27 UStG (Kleinunternehmerregelung)</p>
+          </div>
+        </div>
+        <!-- JavaScript function for toggle -->
+        <script>
+          function toggleImpressum() {
+            var content = document.getElementById("impressum-content");
+            var button = document.getElementById("toggle-button");
+            if (content.style.display === "none") {
+              content.style.display = "block";
+              button.textContent = "Hide Impressum";  // Change to "Hide"
+            } else {
+              content.style.display = "none";
+              button.textContent = "Show Impressum";  // Change to "Show"
+            }
+          }
+        </script>
+        
 
 #    design:
       columns: '1'
 ---
+
