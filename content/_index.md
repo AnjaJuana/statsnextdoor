@@ -15,11 +15,11 @@ sections:
       subtitle: 'Statistical Consulting'
       text: |-
         <div class="md_style">
-            <p>At Statistician Next Door, I offer professional statistical consulting services to a variety of clients. My goal is to collaborate with each client to identify their specific needs and provide tailored services in an accessible way. Whether you are a company, a researcher, or a student, I can help you with your data analysis needs. My services include:</p>
+            <p>At Statistician Next Door, I offer professional statistical consulting services to a variety of clients. My goal is to collaborate with each client to identify their specific needs and provide tailored services. Whether you are a company, a researcher, or another professional, I can help by advising you on your statistical needs and/or performing the data analysis for you. My services include:</p>
             <ul>
-                <li><b>Companies:</b> I can help you understand your current performance, predict your future outcomes, and support your decision making by using advanced statistical techniques and data visualization tools.</li>
-                <li><b>Researchers:</b> I can help you define a clear and feasible research question, choose the appropriate statistical methods, and perform the data analysis. I can also help you interpret the results, report the findings, and communicate the implications of your research.</li>
-                <li><b>Students:</b> I can tutor you in the programming language R and explain concepts and applications of statistics through online tutoring. I will not provide solutions for graded assignments.</li>
+                <li><b>Companies:</b> Through data analysis, I can help you understand your current performance, predict future outcomes, and support your decision-making using advanced statistical techniques and data visualization tools.</li>
+                <li><b>Researchers:</b> I can assist in defining a clear and feasible research question, selecting appropriate statistical methods, and performing the data analysis. Additionally, I can help you interpret the results, report the findings, and communicate the implications of your research.</li>
+                <li><b>Other:</b> Please contact me with your statistical problem, and I might just be able to help you.</li>
             </ul>
             <p>I am using the R programming language for all statistical analysis and can advise you on your own analysis in R as well.</p>
             <p>Contact me today and let me help you with your data analysis needs.</p>
