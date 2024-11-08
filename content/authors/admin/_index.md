@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anja Rueten-Budde
+title: Anja J Rueten-Budde
 
 # Full name (for SEO)
 first_name: Anja Juana
@@ -33,10 +33,10 @@ profiles:
 #    url: https://www.instagram.com/
 #  - icon: brands/github
 #    url: https://github.com/gcushen
-#  - icon: brands/linkedin
-#    url: https://www.linkedin.com/
-#  - icon: academicons/google-scholar
-#    url: https://scholar.google.com/citations?user=7vRQfd8AAAAJ&hl=en
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/anja-j-rueten-budde-756312125/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=7vRQfd8AAAAJ&hl=en
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
 

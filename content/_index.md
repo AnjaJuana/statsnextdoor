@@ -19,7 +19,7 @@ sections:
             <ul>
                 <li><b>Companies:</b> Through data analysis, I can help you understand your current performance, predict future outcomes, and support your decision-making using advanced statistical techniques and data visualization tools.</li>
                 <li><b>Researchers:</b> I can assist in defining a clear and feasible research question, selecting appropriate statistical methods, and performing the data analysis. Additionally, I can help you interpret the results, report the findings, and communicate the implications of your research.</li>
-                <li><b>Other:</b> Please contact me with your statistical problem, and I might just be able to help you.</li>
+                <li><b>Custom Services:</b> Please contact me with your statistical problem, and I might just be able to help you.</li>
             </ul>
             <p>I am using the R programming language for all statistical analysis and can advise you on your own analysis in R as well.</p>
             <p>Contact me today and let me help you with your data analysis needs.</p>
@@ -72,9 +72,7 @@ sections:
       subtitle: ''
       text: |-
         <div class="md_style">
-            <p>To request my service, please email me a summary of your project or problem at 
-                <img src="/images/email_grey.png " class="inline-image" style="width: 38%; height: auto; display: inline-block; vertical-align: middle; margin: 0; padding: 0;">
-            . In particular, please include the following information: 
+            <p>To request my service, please email me a summary of your project or problem at info "at" statisticiannextdoor.com. In particular, please include the following information: 
             </p>
             <ul>
                 <li>Brief summary of project</li>
@@ -107,8 +105,7 @@ sections:
             <ul style="list-style-type: none; padding: 0; margin: 0;">
                 <li><b>Name:</b> Dr. Anja Juana Rüten-Budde</li>
                 <li><b>Address:</b> Roseggerstraße 23, 8700 Leoben, Austria</li>
-                <li><b>Email:</b> <img src="/images/email_white.png" class="inline-image" style="width: 38%; height: auto; display: inline-block; vertical-align: middle; margin: 0; padding: 0;"></li>
-                <li><b>UID Number:</b> ATU12345678 </li>
+                <li><b>Email:</b> info "at" statisticiannextdoor.com</li>
             </ul>
             <p>Einzelunternehmer gemäß § 6 Abs. 1 Z 27 UStG (Kleinunternehmerregelung)</p>
           </div>
@@ -132,4 +129,6 @@ sections:
 #    design:
       columns: '1'
 ---
+
+<!-- email as picture:  <img src="/images/email_white.png" class="inline-image" style="width: 38%; height: auto; display: inline-block; vertical-align: middle; margin: 0; padding: 0;"> -->
 
