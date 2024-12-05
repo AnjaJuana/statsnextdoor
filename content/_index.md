@@ -39,9 +39,9 @@ sections:
       background:
         color: '#F7F7F7'
       # Show a call-to-action button under your biography? (optional)
-#      button:
-#        text: Download CV
-#        url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/Anja_CV.pdf
 #    design:
 #      css_class: dark
 #      background:

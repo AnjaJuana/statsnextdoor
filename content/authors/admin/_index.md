@@ -37,6 +37,9 @@ profiles:
     url: https://www.linkedin.com/in/anja-j-rueten-budde-756312125/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=7vRQfd8AAAAJ&hl=en
+  - icon: academicons/cv
+    url: /uploads/Anja_CV.pdf
+    label: Download CV
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
 
