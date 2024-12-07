@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Statistician Next Door</title>
+    <link>http://localhost:1313/nl/publication_types/</link>
+      <atom:link href="http://localhost:1313/nl/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>nl</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5cc22123e714539d8d236bd680dcec9b_13315_300x300_fit_lanczos_3.png</url>
+      <title>Publication_types</title>
+      <link>http://localhost:1313/nl/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

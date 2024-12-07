@@ -6,17 +6,41 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+de:
+  languageCode: de
+  contentDir: content/de
+  title: Statistician Next Door
+  params:
+    description: Site description in German
+  menu:
+    main:
+      - name: Über mich
+        url: '#aboutme'
+        weight: 10
+      - name: Preise
+        url: '#prices'
+        weight: 11
+      - name: Kontakt
+        url: '#contact'
+        weight: 12
+
+nl:
+  languageCode: nl
+  contentDir: content/nl
+  title: Statistician Next Door
+  params:
+    description: Site description in Dutch
+  menu:
+    main:
+      - name: Over mij
+        url: '#aboutme'
+        weight: 10
+      - name: Prijzen
+        url: '#prices'
+        weight: 11
+      - name: Contact
+        url: '#contact'
+        weight: 12
