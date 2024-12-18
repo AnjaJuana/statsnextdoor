@@ -173,101 +173,6 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/hugo/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/project/pandas/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/project/pandas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/project/pandas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/project/pandas/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/project/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/project/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/project/pytorch/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/project/pytorch/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/project/scikit/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/project/scikit/"
-                />
-  </url><url>
     <loc>http://localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -285,25 +190,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/tags/second-brain/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/wowchemy/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/wowchemy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/tags/wowchemy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/wowchemy/"
                 />
   </url><url>
     <loc>http://localhost:1313/post/second-brain/</loc>
@@ -342,6 +228,25 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/post/data-visualization/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/hugo/"
                 />
   </url><url>
     <loc>http://localhost:1313/post/teach-courses/</loc>
@@ -534,6 +439,33 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/project/persarc/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/project/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/project/multi/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -628,6 +560,10 @@
                 hreflang="en-us"
                 href="http://localhost:1313/publication/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/project/dynamic/</loc>
+    <lastmod>2018-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>

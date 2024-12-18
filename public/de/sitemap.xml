@@ -178,13 +178,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/hugo/"
+                hreflang="nl"
+                href="http://localhost:1313/nl/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/tags/hugo/"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -195,11 +195,6 @@
     <loc>http://localhost:1313/de/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/project/pandas/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -216,13 +211,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/project/"
+                hreflang="nl"
+                href="http://localhost:1313/nl/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/project/"
+                hreflang="en-us"
+                href="http://localhost:1313/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,11 +228,6 @@
     <loc>http://localhost:1313/de/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/project/pytorch/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -252,11 +242,6 @@
     <loc>http://localhost:1313/de/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/project/scikit/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -290,11 +275,6 @@
     <loc>http://localhost:1313/de/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/wowchemy/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
