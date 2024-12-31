@@ -128,30 +128,6 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/nl/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nl/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/nl/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nl/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/nl/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nl/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
       <link>http://localhost:1313/nl/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -270,7 +246,7 @@
 
 
 
-&lt;div id=&#34;chart-842691357&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-547691238&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +264,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-842691357&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-547691238&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -913,6 +889,22 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Personalized Sarcoma Care</title>
+      <link>http://localhost:1313/nl/project/persarc/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/project/persarc/</guid>
+      <description>&lt;p&gt;Ik was betrokken bij de ontwikkeling van deze belangrijke Personalized Sarcoma Care (PERSARC) voorspellingstool, met als doel de zorg voor patiënten met hooggradig soft tissue sarcoom te verbeteren. Meerdere statistische modellen zijn ontwikkeld en geüpdatet naarmate het project groter werd en er meer internationale data konden worden verzameld. De modellen zijn beschikbaar voor klinische praktijk via een app voor Android en iOS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Een multistate model voor Ewing sarcoma</title>
+      <link>http://localhost:1313/nl/project/multi/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/project/multi/</guid>
+      <description>&lt;p&gt;Ik heb bijgedragen aan verschillende projecten die multistaatmodellen toepasten op klinische gegevens. Eén belangrijk project richtte zich op het identificeren van risicofactoren voor patiënten met Ewing-sarcoom. Een multistaatmodel, zoals het model aan de linkerkant, kan meerdere gezondheidsgerelateerde gebeurtenissen vastleggen die een patiënt kan ervaren. Het maakt het mogelijk om risicofactoren te modelleren die samenhangen met elke overgang tussen verschillende &amp;rsquo;toestanden&amp;rsquo; in de gezondheidstoestand van een patiënt. Bovendien stellen dergelijke modellen ons in staat om voorspellingen te doen voor individuele patiënten, wat helpt bij het ondersteunen van klinische besluitvorming.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>http://localhost:1313/nl/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -926,6 +918,14 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Dynamische voorspelling voor patiënten met soft tissue sarcoom</title>
+      <link>http://localhost:1313/nl/project/dynamic/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/project/dynamic/</guid>
+      <description>&lt;p&gt;Na een operatie kunnen patiënten ziektegerelateerde gebeurtenissen ervaren, zoals lokale recidieven (LR), die de voorspelde overlevingskans veranderen. Zelfs zonder dergelijke gebeurtenissen te ervaren, kan het feit dat een patiënt bijvoorbeeld 1 jaar na de operatie nog leeft, invloed hebben op zijn overlevingskans. Een dynamisch voorspellingsmodel kan de patiëntreis modelleren naarmate deze zich ontvouwt in de klinische praktijk. Aan de linkerkant toont Paneel C van Figuur 2 hoe deze kansen in de loop van de tijd veranderen voor een specifieke patiënt (Figuur 2C. 5-jaars overlevingskansschattingen voor patiënten met verschillende kenmerken en op verschillende stadia van ziektestatus (Rueten-Budde et al., 2018). Herdrukt uit Surgical Oncology, 27(4), 695-701. (&lt;a href=&#34;https://doi.org/10.1016/j.suronc.2018.09.003))&#34;&gt;https://doi.org/10.1016/j.suronc.2018.09.003))&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>

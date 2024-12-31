@@ -20,12 +20,16 @@ de:
       - name: Über mich
         url: '#aboutme'
         weight: 10
+      - name: Projekte
+        url: '#projects'
+        weight: 20
       - name: Preise
         url: '#prices'
-        weight: 11
+        weight: 30
       - name: Kontakt
         url: '#contact'
-        weight: 12
+        weight: 40
+        
 
 nl:
   languageCode: nl
@@ -38,9 +42,12 @@ nl:
       - name: Over mij
         url: '#aboutme'
         weight: 10
+      - name: Projekten
+        url: '#projects'
+        weight: 20
       - name: Prijzen
         url: '#prices'
-        weight: 11
+        weight: 30
       - name: Contact
         url: '#contact'
-        weight: 12
+        weight: 40

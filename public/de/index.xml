@@ -128,30 +128,6 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/de/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/de/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/de/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
       <link>http://localhost:1313/de/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -270,7 +246,7 @@
 
 
 
-&lt;div id=&#34;chart-269153847&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-489231576&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +264,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-269153847&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-489231576&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -913,6 +889,22 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Personalized Sarcoma Care</title>
+      <link>http://localhost:1313/de/project/persarc/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/project/persarc/</guid>
+      <description>&lt;p&gt;Ich war an der Entwicklung des Personalized Sarcoma Care (PERSARC) Vorhersage-Tools beteiligt, mit dem Ziel, die Versorgung von Patienten mit hochgradigem Weichteilsarkom zu verbessern. Mehrere statistische Modelle wurden entwickelt und aktualisiert, während das Projekt größer wurde und mehr internationale Daten gesammelt werden konnten. Die Modelle sind über eine App für Android und iOS für die klinische Praxis verfügbar.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ein Multistate-Modell für Ewing sarcoma</title>
+      <link>http://localhost:1313/de/project/multi/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/project/multi/</guid>
+      <description>&lt;p&gt;Ich habe an mehreren Projekten mitgewirkt, die Multistate-Modelle auf klinische Daten angewendet haben. Ein wichtiges Projekt konzentrierte sich auf die Identifizierung von Risikofaktoren bei Patienten mit Ewing-Sarkom. Ein Multistate-Modell, wie zum Beispiel das links dargestellte, erfasst verschiedene gesundheitliche Ereignisse, die ein Patient durchlaufen kann. Es ermöglicht die Modellierung von Risikofaktoren, die mit den Übergängen zwischen unterschiedlichen „Zuständen“ im Gesundheitsverlauf eines Patienten verbunden sind. Zudem erlauben solche Modelle die Vorhersage von Krankheitsverläufen für einzelne Patienten, was die klinische Entscheidungsfindung unterstützt.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>http://localhost:1313/de/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -926,6 +918,14 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Dynamische Vorhersage für das Überleben von Patienten mit Weichteilsarkom</title>
+      <link>http://localhost:1313/de/project/dynamic/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/project/dynamic/</guid>
+      <description>&lt;p&gt;Nach einer Operation können Patienten krankheitsbedingte Ereignisse wie lokale Rezidive (LR) erleben, die ihre prognostizierte Überlebenswahrscheinlichkeit beeinflussen. Doch auch ohne solche Ereignisse kann die Überlebenswahrscheinlichkeit eines Patienten durch Faktoren wie das Erreichen eines bestimmten Zeitpunkts, z. B. ein Jahr nach der Operation, verändert werden. Ein dynamisches Vorhersagemodell ermöglicht es, den Verlauf eines Patienten im Laufe der Zeit, wie er in der klinischen Praxis tatsächlich verläuft, zu modellieren. Panel C in Abbildung 2 (links) zeigt, wie diese Wahrscheinlichkeiten für einen bestimmten Patienten über die Zeit hinweg angepasst werden (Abbildung 2C. 5-Jahres-Überlebenswahrscheinlichkeiten für Patienten mit unterschiedlichen Merkmalen und Krankheitsstadien, aus Rueten-Budde et al., 2018. Wiederabgedruckt aus Surgical Oncology, 27(4), 695-701. (&lt;a href=&#34;https://doi.org/10.1016/j.suronc.2018.09.003))&#34;&gt;https://doi.org/10.1016/j.suronc.2018.09.003))&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>

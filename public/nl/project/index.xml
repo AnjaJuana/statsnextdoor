@@ -5,7 +5,7 @@
     <link>http://localhost:1313/nl/project/</link>
       <atom:link href="http://localhost:1313/nl/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>nl</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>nl</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu5cc22123e714539d8d236bd680dcec9b_13315_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
@@ -13,27 +13,28 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/nl/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nl/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>Personalized Sarcoma Care</title>
+      <link>http://localhost:1313/nl/project/persarc/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/project/persarc/</guid>
+      <description>&lt;p&gt;Ik was betrokken bij de ontwikkeling van deze belangrijke Personalized Sarcoma Care (PERSARC) voorspellingstool, met als doel de zorg voor patiënten met hooggradig soft tissue sarcoom te verbeteren. Meerdere statistische modellen zijn ontwikkeld en geüpdatet naarmate het project groter werd en er meer internationale data konden worden verzameld. De modellen zijn beschikbaar voor klinische praktijk via een app voor Android en iOS.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/nl/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nl/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>Een multistate model voor Ewing sarcoma</title>
+      <link>http://localhost:1313/nl/project/multi/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/project/multi/</guid>
+      <description>&lt;p&gt;Ik heb bijgedragen aan verschillende projecten die multistaatmodellen toepasten op klinische gegevens. Eén belangrijk project richtte zich op het identificeren van risicofactoren voor patiënten met Ewing-sarcoom. Een multistaatmodel, zoals het model aan de linkerkant, kan meerdere gezondheidsgerelateerde gebeurtenissen vastleggen die een patiënt kan ervaren. Het maakt het mogelijk om risicofactoren te modelleren die samenhangen met elke overgang tussen verschillende &amp;rsquo;toestanden&amp;rsquo; in de gezondheidstoestand van een patiënt. Bovendien stellen dergelijke modellen ons in staat om voorspellingen te doen voor individuele patiënten, wat helpt bij het ondersteunen van klinische besluitvorming.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/nl/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nl/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Dynamische voorspelling voor patiënten met soft tissue sarcoom</title>
+      <link>http://localhost:1313/nl/project/dynamic/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/project/dynamic/</guid>
+      <description>&lt;p&gt;Een dynamisch voorspellingsmodel voor overleving van patiënten met een soft tissue sarcoom.
+Na een operatie kunnen patiënten ziektegerelateerde gebeurtenissen ervaren, zoals lokale recidieven (LR), die de voorspelde overlevingskans veranderen. Zelfs zonder dergelijke gebeurtenissen te ervaren, kan het feit dat een patiënt bijvoorbeeld 1 jaar na de operatie nog leeft, invloed hebben op zijn overlevingskans. Een dynamisch voorspellingsmodel kan de patiëntreis modelleren naarmate deze zich ontvouwt in de klinische praktijk. Aan de linkerkant toont Paneel C van Figuur 2 hoe deze kansen in de loop van de tijd veranderen voor een specifieke patiënt (Figuur 2C. 5-jaars overlevingskansschattingen voor patiënten met verschillende kenmerken en op verschillende stadia van ziektestatus (Rueten-Budde et al., 2018). Herdrukt uit Surgical Oncology, 27(4), 695-701. (&lt;a href=&#34;https://doi.org/10.1016/j.suronc.2018.09.003))&#34;&gt;https://doi.org/10.1016/j.suronc.2018.09.003))&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

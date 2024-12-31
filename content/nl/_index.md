@@ -15,15 +15,15 @@ sections:
       subtitle: 'Statistical Consulting'
       text: |-
         <div class="md_style">
-            <p>Bij Statistician Next Door bied ik professionele statistische adviesdiensten aan een breed scala aan klanten. Mijn doel is om met elke klant samen te werken om hun specifieke behoeften te identificeren en op maat gemaakte diensten te leveren. Of u nu een bedrijf, onderzoeker, of student bent, ik kan u helpen door advies te geven over uw statistische behoeften en/of de data-analyse voor u uit te voeren. Mijn diensten omvatten:</p>
+            <p>Bij Statistician Next Door bied ik professionele statistische adviesdiensten aan een breed scala aan klanten. Mijn doel is om met elke klant samen te werken om hun specifieke problemen te identificeren en op maat gemaakte diensten te leveren. Of u nu een bedrijf, onderzoeker, of student bent, ik kan u helpen door advies te geven over uw statistische vraagstukken en/of de data-analyse voor u uit te voeren. Mijn diensten omvatten:</p>
             <ul>
                 <li><b>Bedrijven:</b> Met behulp van data-analyse kan ik u helpen uw huidige prestaties te begrijpen, toekomstige uitkomsten te voorspellen en uw besluitvorming te ondersteunen met geavanceerde statistische technieken en datavisualisatietools.</li>
                 <li><b>Onderzoekers:</b> Ik kan helpen bij het formuleren van een duidelijke en haalbare onderzoeksvraag, het selecteren van geschikte statistische methoden en het uitvoeren van data-analyse. Daarnaast kan ik u ondersteunen bij het interpreteren van de resultaten, het rapporteren van bevindingen en het communiceren van de implicaties van uw onderzoek.</li>
                 <li><b>Studenten:</b> Ik kan u begeleiden in de programmeertaal R en concepten en toepassingen van statistiek uitleggen via online begeleiding. Ik lever echter geen oplossingen voor beoordeelde opdrachten.</li>
-                <li><b>Aangepaste diensten:</b> Neem contact met mij op met uw statistische probleem, en misschien kan ik u helpen.</li>
+                <li><b>Aangepaste diensten:</b> Neem contact met mij op met uw statistisch probleem, en misschien kan ik u helpen.</li>
             </ul>
             <p>Ik gebruik de programmeertaal R voor alle statistische analyses en kan u ook adviseren over uw eigen analyses in R.</p>
-            <p>Neem vandaag nog contact met mij op, en laat mij u helpen met uw data-analysebehoeften.</p>
+            <p>Neem vandaag nog contact met mij op, en laat mij u helpen met uw data-analysevraagstukken.</p>
         </div>
     design:
       background:
@@ -55,7 +55,41 @@ sections:
 #          size: cover
 #          position: center
 #          parallax: false
-          
+  
+  
+  - block: collection
+    id: projects
+    content:
+      title: Featured projects
+      subtitle: ''
+      text: 'Advanced statistical models in medicine'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - project
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: card
+
+  
+  
   - block: markdown
     id: prices
     content:
@@ -72,7 +106,7 @@ sections:
       subtitle: ''
       text: |-
         <div class="md_style">
-            <p>Om gebruik te maken van mijn diensten, stuur dan een samenvatting van uw project of probleem per e-mail op info "at" statisticiannextdoor.com. Vermeld hierbij in het bijzonder de volgende informatie: </p>
+            <p>Om gebruik te maken van mijn diensten, stuurt u een samenvatting van uw project of probleem per e-mail op info "at" statisticiannextdoor.com. Vermeld hierbij in het bijzonder de volgende informatie: </p>
             <ul>
                 <li>Korte samenvatting van het project</li>
                 <li>Projectdoel: wat verwacht u als uitkomst van dit project?</li>
@@ -101,9 +135,9 @@ sections:
           <!-- Hidden Impressum content -->
           <div id="impressum-content" style="display:none; font-size: 0.8em;">
             <ul style="list-style-type: none; padding: 0; margin: 0;">
-                <li><b>Name:</b> Dr. Anja Juana Rüten-Budde</li>
-                <li><b>Address:</b> Roseggerstraße 23, 8700 Leoben, Oostenrijk</li>
-                <li><b>Email:</b> info "at" statisticiannextdoor.com</li>
+                <li><b>Naam:</b> Dr. Anja Juana Rüten-Budde</li>
+                <li><b>Adres:</b> Roseggerstraße 23, 8700 Leoben, Oostenrijk</li>
+                <li><b>E-mail:</b> info "at" statisticiannextdoor.com</li>
             </ul>
             <p>Eenmanszaak volgens § 6 lid 1 Z 27 UStG (Kleinondernemersregeling)</p>
           </div>

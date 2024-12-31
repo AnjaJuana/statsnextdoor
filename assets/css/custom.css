@@ -12,3 +12,8 @@
 }
 
 
+/* Hide the date from project cards */
+.project-card .date, 
+.post-card .date {
+  display: none;
+}
