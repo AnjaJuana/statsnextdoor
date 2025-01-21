@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu5cc22123e714539d8d236bd680dcec9b_13315_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/sharing.png</url>
       <title>Projects</title>
       <link>http://localhost:1313/de/project/</link>
     </image>
@@ -17,24 +17,23 @@
       <link>http://localhost:1313/de/project/persarc/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/project/persarc/</guid>
-      <description>&lt;p&gt;Ich war an der Entwicklung dieses wichtigen Personalized Sarcoma Care (PERSARC) Vorhersage-Tools beteiligt, mit dem Ziel, die Versorgung von Patienten mit hochgradigem Weichteilsarkom zu verbessern. Mehrere statistische Modelle wurden entwickelt und aktualisiert, während das Projekt größer wurde und mehr internationale Daten gesammelt werden konnten. Die Modelle sind über eine App für Android und iOS für die klinische Praxis verfügbar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ich war an der Entwicklung des Personalized Sarcoma Care (PERSARC) Vorhersage-Tools beteiligt, mit dem Ziel, die Versorgung von Patienten mit hochgradigem Weichteilsarkom zu verbessern. Mehrere statistische Modelle wurden entwickelt und aktualisiert, während das Projekt größer wurde und mehr internationale Daten gesammelt werden konnten. Die Modelle sind über eine App für Android und iOS für die klinische Praxis verfügbar.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Ein multistate model für Ewing sarcoma</title>
+      <title>Ein Multistate-Modell für Ewing sarcoma</title>
       <link>http://localhost:1313/de/project/multi/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/project/multi/</guid>
-      <description>&lt;p&gt;Ich habe zu mehreren Projekten beigetragen, die Multistate-Modelle auf klinische Daten angewendet haben. Ein wichtiges Projekt konzentrierte sich auf die Identifizierung von Risikofaktoren für Patienten mit Ewing-Sarkom. Ein Multistate-Modell, wie das links gezeigte, kann mehrere gesundheitliche Ereignisse erfassen, die ein Patient erleben könnte. Es ermöglicht die Modellierung von Risikofaktoren, die mit jeder Transition zwischen verschiedenen &amp;lsquo;Zuständen&amp;rsquo; im Gesundheitsverlauf eines Patienten verbunden sind. Darüber hinaus ermöglichen solche Modelle Vorhersagen für einzelne Patienten und unterstützen so die klinische Entscheidungsfindung.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ich habe an mehreren Projekten mitgewirkt, die Multistate-Modelle auf klinische Daten angewendet haben. Ein wichtiges Projekt konzentrierte sich auf die Identifizierung von Risikofaktoren bei Patienten mit Ewing-Sarkom. Ein Multistate-Modell, wie zum Beispiel das links dargestellte, erfasst verschiedene gesundheitliche Ereignisse, die ein Patient durchlaufen kann. Es ermöglicht die Modellierung von Risikofaktoren, die mit den Übergängen zwischen unterschiedlichen „Zuständen“ im Gesundheitsverlauf eines Patienten verbunden sind. Zudem erlauben solche Modelle die Vorhersage von Krankheitsverläufen für einzelne Patienten, was die klinische Entscheidungsfindung unterstützt.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Dynamische Vorhersage für Patienten mit Weichteilsarkom</title>
+      <title>Dynamische Vorhersage für das Überleben von Patienten mit Weichteilsarkom</title>
       <link>http://localhost:1313/de/project/dynamic/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/project/dynamic/</guid>
-      <description>&lt;p&gt;Ein dynamisches Vorhersagemodell für das Überleben von Patienten mit Weichteilsarkom.
-Nach einer Operation können Patienten krankheitsbedingte Ereignisse wie lokale Rezidive (LR) erfahren, die ihre vorhergesagte Überlebenswahrscheinlichkeit verändern. Auch ohne solche Ereignisse zu erleben, kann es die Überlebenswahrscheinlichkeit eines Patienten beeinflussen, wenn er beispielsweise 1 Jahr nach der Operation noch lebt. Ein dynamisches Vorhersagemodell ist in der Lage, den Patientenverlauf zu modellieren, wie er sich in der klinischen Praxis entfaltet. Links zeigt Panel C in Abbildung 2, wie diese Wahrscheinlichkeiten im Laufe der Zeit für einen bestimmten Patienten verändert werden (Abbildung 2C. 5-Jahres-Überlebenswahrscheinlichkeits-Schätzungen für Patienten mit unterschiedlichen Merkmalen und verschiedenen Krankheitsstadien (Rueten-Budde et al., 2018). Wiederabgedruckt aus Surgical Oncology, 27(4), 695-701. (&lt;a href=&#34;https://doi.org/10.1016/j.suronc.2018.09.003))&#34;&gt;https://doi.org/10.1016/j.suronc.2018.09.003))&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nach einer Operation können Patienten krankheitsbedingte Ereignisse wie lokale Rezidive (LR) erleben, die ihre prognostizierte Überlebenswahrscheinlichkeit beeinflussen. Doch auch ohne solche Ereignisse kann die Überlebenswahrscheinlichkeit eines Patienten durch Faktoren wie das Erreichen eines bestimmten Zeitpunkts, z. B. ein Jahr nach der Operation, verändert werden. Ein dynamisches Vorhersagemodell ermöglicht es, den Verlauf eines Patienten im Laufe der Zeit, wie er in der klinischen Praxis tatsächlich verläuft, zu modellieren. Panel C in Abbildung 2 (links) zeigt, wie diese Wahrscheinlichkeiten für einen bestimmten Patienten über die Zeit hinweg angepasst werden (Abbildung 2C. 5-Jahres-Überlebenswahrscheinlichkeiten für Patienten mit unterschiedlichen Merkmalen und Krankheitsstadien, aus Rueten-Budde et al., 2018. Wiederabgedruckt aus Surgical Oncology, 27(4), 695-701. (&lt;a href=&#34;https://doi.org/10.1016/j.suronc.2018.09.003))&#34;&gt;https://doi.org/10.1016/j.suronc.2018.09.003))&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

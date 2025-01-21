@@ -7,7 +7,7 @@
     <description>Markdown</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>nl</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu5cc22123e714539d8d236bd680dcec9b_13315_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/sharing.png</url>
       <title>Markdown</title>
       <link>http://localhost:1313/nl/tags/markdown/</link>
     </image>
@@ -217,7 +217,7 @@
 
 
 
-&lt;div id=&#34;chart-547691238&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-615284379&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -235,7 +235,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-547691238&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-615284379&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

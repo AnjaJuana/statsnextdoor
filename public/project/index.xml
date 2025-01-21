@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu5cc22123e714539d8d236bd680dcec9b_13315_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/sharing.png</url>
       <title>Projects</title>
       <link>http://localhost:1313/project/</link>
     </image>
@@ -33,7 +33,7 @@
       <link>http://localhost:1313/project/dynamic/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/dynamic/</guid>
-      <description>&lt;p&gt;A dynamic prediction model for survival of patients with soft tissue sarcoma. After surgery patients can experience disease related events, such as local recurrence (LR) that change their predicted probability of survival. Even without experiencing such events, the fact that a patient is alive at e.g. 1 year past surgery, can have an effect on his survival probability. A dynamic prediction model is able to model the patient journey as they unfold in clinical practice. On the left, Panel C of Figure 2 shows how these probabilities change over time for a particular patient (Figure 2C. 5-year probability of death estimates for patients with different characteristics and at different states of disease progression (Rueten-Budde et al., 2018). Reprinted from Surgical Oncology, 27(4), 695-701.(&lt;a href=&#34;https://doi.org/10.1016/j.suronc.2018.09.003))&#34;&gt;https://doi.org/10.1016/j.suronc.2018.09.003))&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A dynamic prediction model for survival of patients with soft tissue sarcoma. After surgery patients can experience disease related events, such as local recurrence (LR) that change their predicted probability of survival. Even without experiencing such events, the fact that a patient is alive at e.g. 1 year past surgery, can have an effect on his survival probability. A dynamic prediction model is able to model the patient journey as they unfold in clinical practice. On the left, Panel C of Figure 2 shows how these probabilities change over time for a particular patient (Figure 2C. 5-year probability of death estimates for patients with different characteristics and at different states of disease progression (Rueten-Budde et al., 2018). Reprinted from Surgical Oncology, 27(4), 695-701. (&lt;a href=&#34;https://doi.org/10.1016/j.suronc.2018.09.003))&#34;&gt;https://doi.org/10.1016/j.suronc.2018.09.003))&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
