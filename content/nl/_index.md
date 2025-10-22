@@ -19,8 +19,7 @@ sections:
             <ul>
                 <li><b>Bedrijven:</b> Met behulp van data-analyse kan ik u helpen uw huidige prestaties te begrijpen, toekomstige uitkomsten te voorspellen en uw besluitvorming te ondersteunen met geavanceerde statistische technieken en datavisualisatietools.</li>
                 <li><b>Onderzoekers:</b> Ik kan helpen bij het formuleren van een duidelijke en haalbare onderzoeksvraag, het selecteren van geschikte statistische methoden en het uitvoeren van data-analyse. Daarnaast kan ik u ondersteunen bij het interpreteren van de resultaten, het rapporteren van bevindingen en het communiceren van de implicaties van uw onderzoek.</li>
-                <li><b>Studenten:</b> Ik kan u begeleiden in de programmeertaal R en concepten en toepassingen van statistiek uitleggen via online begeleiding. Ik lever echter geen oplossingen voor beoordeelde opdrachten.</li>
-                <li><b>Aangepaste diensten:</b> Neem contact met mij op met uw statistisch probleem, en misschien kan ik u helpen.</li>
+                <li><b>Studenten:</b> Ik geef al vele jaren met veel plezier bijles en doe dat nog steeds graag. Online kan ik u statistiek uitleggen — zowel de theorie als de praktische toepassingen — en programmeren in R. Daarnaast help ik u graag met het statistische gedeelte van uw bachelor- of masterscriptie.</li>
             </ul>
             <p>Ik gebruik de programmeertaal R voor alle statistische analyses en kan u ook adviseren over uw eigen analyses in R.</p>
             <p>Neem vandaag nog contact met mij op, en laat mij u helpen met uw data-analysevraagstukken.</p>

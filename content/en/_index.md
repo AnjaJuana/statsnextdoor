@@ -19,8 +19,7 @@ sections:
             <ul>
                 <li><b>Companies:</b> Through data analysis, I can help you understand your current performance, predict future outcomes, and support your decision-making using advanced statistical techniques and data visualization tools.</li>
                 <li><b>Researchers:</b> I can assist in defining a clear and feasible research question, selecting appropriate statistical methods, and performing the data analysis. Additionally, I can help you interpret the results, report the findings, and communicate the implications of your research.</li>
-                <li><b>Students:</b> I can tutor you in the programming language R and explain concepts and applications of statistics through online tutoring. I cannot provide solutions for graded assignments.</li>
-                <li><b>Custom Services:</b> Please contact me with your statistical problem, and I might just be able to help you.</li>
+                <li><b>Students:</b> I have been tutoring with great enthusiasm for many years and continue to enjoy doing so. Online, I can explain statistics — both theory and practical applications — as well as programming in R. I am also happy to support you with the statistical part of your bachelor's or master's thesis.</li>
             </ul>
             <p>I am using the R programming language for all statistical analysis and can advise you on your own analysis in R as well.</p>
             <p>Contact me today and let me help you with your data analysis needs.</p>

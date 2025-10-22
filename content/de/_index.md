@@ -19,8 +19,7 @@ sections:
             <ul>
                 <li><b>Unternehmen:</b> Durch Datenanalysen helfe ich Ihnen, Ihre aktuelle Leistung zu verstehen, zukünftige Ergebnisse vorherzusagen und fundierte Entscheidungen mit fortschrittlichen statistischen Techniken und Datenvisualisierungs-Tools zu unterstützen.</li> 
                 <li><b>Forscher:</b> Ich unterstütze Sie bei der Formulierung einer klaren und umsetzbaren Forschungsfrage, der Auswahl geeigneter statistischer Methoden und der Durchführung der Datenanalyse. Zusätzlich helfe ich Ihnen, die Ergebnisse zu interpretieren, die Befunde zu berichten und die Implikationen Ihrer Forschung zu kommunizieren.</li> 
-                <li><b>Studierende:</b> Ich biete Nachhilfe im Programmieren mit der Programmiersprache R sowie Erklärungen zu Konzepten und Anwendungen der Statistik im Rahmen von Online-Tutoring an. Ich erstelle keine Lösungen für benotete Aufgaben.</li> 
-                <li><b>Individuelle Dienstleistungen:</b> Kontaktieren Sie mich mit Ihrem statistischen Problem, und möglicherweise kann ich Ihnen helfen.</li>
+                <li><b>Studierende:</b> Ich gebe schon seit vielen Jahren mit Freude Nachhilfe und mache das auch weiterhin sehr gerne. Online kann ich Ihnen Statistik — sowohl Theorie als auch praktische Anwendungen — sowie das Programmieren in R erklären. Außerdem unterstütze ich Sie gerne beim Statistikteil Ihrer Bachelor- oder Masterarbeit.</li>
             </ul>
             <p>Ich verwende die Programmiersprache R für alle statistischen Analysen und kann Sie auch bei Ihrer eigenen Analyse in R beraten.</p> 
             <p>Kontaktieren Sie mich noch heute, und lassen Sie mich Ihnen bei Ihren Datenanalyse-Anforderungen helfen.</p>
